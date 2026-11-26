@@ -1,0 +1,2483 @@
+{
+  "vehicles": [
+    {
+      "id": "ai-swift-dzire",
+      "name": "Maruti Suzuki Swift Dzire (AI Showcase)",
+      "category": "Sedan",
+      "image": "/images/swift_dzire_wide.png",
+      "pricePerKm": 12,
+      "pricePerDay": 2400,
+      "capacity": 4,
+      "luggage": 2,
+      "mileage": "22 km/l",
+      "specifications": {
+        "ac": true,
+        "musicSystem": true,
+        "chargingPort": true,
+        "pushbackSeats": false,
+        "airbags": true,
+        "gps": true
+      },
+      "features": [
+        "AI 3D Showcase Model",
+        "Dual Chilled AC",
+        "Bluetooth Audio & GPS",
+        "Uniformed Chauffeur"
+      ],
+      "availability": "Available",
+      "gallery": [
+        "/images/swift_dzire_wide.png",
+        "/images/swift_dzire.png"
+      ],
+      "plateNumber": "OD02 DZ 2026",
+      "isRealFleet": false,
+      "badge": "AI Showcase"
+    },
+    {
+      "id": "ai-innova-crysta",
+      "name": "Toyota Innova Crysta (AI Showcase)",
+      "category": "Innova Crysta",
+      "image": "/images/innova_crysta_wide.png",
+      "pricePerKm": 18,
+      "pricePerDay": 3500,
+      "capacity": 7,
+      "luggage": 4,
+      "mileage": "14 km/l",
+      "specifications": {
+        "ac": true,
+        "musicSystem": true,
+        "chargingPort": true,
+        "pushbackSeats": true,
+        "airbags": true,
+        "gps": true
+      },
+      "features": [
+        "AI 3D Showcase Model",
+        "Captain Recliner Seats",
+        "Independent Roof AC",
+        "Huge Boot Space"
+      ],
+      "availability": "Available",
+      "gallery": [
+        "/images/innova_crysta_wide.png",
+        "/images/innova_crysta.png"
+      ],
+      "plateNumber": "OD02 CR 2026",
+      "isRealFleet": false,
+      "badge": "AI Showcase"
+    },
+    {
+      "id": "ai-fortuner",
+      "name": "Toyota Fortuner 4x4 (AI Showcase)",
+      "category": "SUV",
+      "image": "/images/fortuner_wide.png",
+      "pricePerKm": 24,
+      "pricePerDay": 5500,
+      "capacity": 7,
+      "luggage": 4,
+      "mileage": "12 km/l",
+      "specifications": {
+        "ac": true,
+        "musicSystem": true,
+        "chargingPort": true,
+        "pushbackSeats": true,
+        "airbags": true,
+        "gps": true
+      },
+      "features": [
+        "AI 3D Showcase Model",
+        "4x4 Off-Road Terrain",
+        "Sunroof & Leather",
+        "VIP Convoy Stance"
+      ],
+      "availability": "Available",
+      "gallery": [
+        "/images/fortuner_wide.png",
+        "/images/fortuner.png"
+      ],
+      "plateNumber": "OD02 FT 4444",
+      "isRealFleet": false,
+      "badge": "AI Showcase"
+    },
+    {
+      "id": "ai-force-urbania",
+      "name": "Force Urbania Luxury Van (AI Showcase)",
+      "category": "Force Urbania",
+      "image": "/images/force_urbania_wide.png",
+      "pricePerKm": 28,
+      "pricePerDay": 8500,
+      "capacity": 17,
+      "luggage": 10,
+      "mileage": "11 km/l",
+      "specifications": {
+        "ac": true,
+        "musicSystem": true,
+        "chargingPort": true,
+        "pushbackSeats": true,
+        "airbags": true,
+        "gps": true
+      },
+      "features": [
+        "AI 3D Showcase Model",
+        "Panoramic Picture Windows",
+        "Individual AC & USB",
+        "Monocoque Body"
+      ],
+      "availability": "Available",
+      "gallery": [
+        "/images/force_urbania_wide.png",
+        "/images/force_urbania.png"
+      ],
+      "plateNumber": "OD02 UR 2026",
+      "isRealFleet": false,
+      "badge": "AI Showcase"
+    },
+    {
+      "id": "ai-tempo-traveller",
+      "name": "Force Tempo Traveller 17 Seater (AI Showcase)",
+      "category": "Tempo Traveller",
+      "image": "/images/tempo_traveller_wide.png",
+      "pricePerKm": 22,
+      "pricePerDay": 6000,
+      "capacity": 17,
+      "luggage": 10,
+      "mileage": "10 km/l",
+      "specifications": {
+        "ac": true,
+        "musicSystem": true,
+        "chargingPort": true,
+        "pushbackSeats": true,
+        "airbags": true,
+        "gps": true
+      },
+      "features": [
+        "AI 3D Showcase Model",
+        "2x1 Pushback Recliners",
+        "Chilled Climate AC",
+        "Roof Luggage Carrier"
+      ],
+      "availability": "Available",
+      "gallery": [
+        "/images/tempo_traveller_wide.png",
+        "/images/tempo_traveller.png"
+      ],
+      "plateNumber": "OD02 TT 2026",
+      "isRealFleet": false,
+      "badge": "AI Showcase"
+    },
+    {
+      "id": "ai-wedding-car",
+      "name": "Mercedes-Benz Royal Wedding Limousine (AI Showcase)",
+      "category": "Luxury Cars",
+      "image": "/banners/wedding_car.png",
+      "pricePerKm": 65,
+      "pricePerDay": 22000,
+      "capacity": 4,
+      "luggage": 3,
+      "mileage": "10 km/l",
+      "specifications": {
+        "ac": true,
+        "musicSystem": true,
+        "chargingPort": true,
+        "pushbackSeats": true,
+        "airbags": true,
+        "gps": true
+      },
+      "features": [
+        "AI Showcase Model",
+        "Fresh Floral Decoration",
+        "White-Glove Chauffeur",
+        "Red Carpet Arrival"
+      ],
+      "availability": "Available",
+      "gallery": [
+        "/banners/wedding_car.png"
+      ],
+      "plateNumber": "OD02 WD 9999",
+      "isRealFleet": false,
+      "badge": "AI Showcase"
+    },
+    {
+      "id": "ai-luxury-coach",
+      "name": "Volvo Multi-Axle Luxury Tour Coach (AI Showcase)",
+      "category": "Luxury Bus",
+      "image": "/banners/travel_fleet.png",
+      "pricePerKm": 48,
+      "pricePerDay": 19000,
+      "capacity": 45,
+      "luggage": 35,
+      "mileage": "6 km/l",
+      "specifications": {
+        "ac": true,
+        "musicSystem": true,
+        "chargingPort": true,
+        "pushbackSeats": true,
+        "airbags": true,
+        "gps": true
+      },
+      "features": [
+        "AI Showcase Model",
+        "Air Suspension Ride",
+        "PA Mic & LED Screen",
+        "Interstate Corporate Fleet"
+      ],
+      "availability": "Available",
+      "gallery": [
+        "/banners/travel_fleet.png"
+      ],
+      "plateNumber": "OD02 VL 1000",
+      "isRealFleet": false,
+      "badge": "AI Showcase"
+    },
+    {
+      "id": "real-audi-a6-grille",
+      "name": "Audi A6 Matrix Elite (Front Grille)",
+      "category": "Luxury Cars",
+      "image": "/vehicles/real/audi_a6_front_grille_real.jpg",
+      "pricePerKm": 45,
+      "pricePerDay": 16000,
+      "capacity": 4,
+      "luggage": 3,
+      "mileage": "14 km/l",
+      "specifications": {
+        "ac": true,
+        "musicSystem": true,
+        "chargingPort": true,
+        "pushbackSeats": true,
+        "airbags": true,
+        "gps": true
+      },
+      "features": [
+        "Real Shibani Fleet",
+        "Matrix LED Headlamps",
+        "Bang & Olufsen 3D Sound",
+        "Plate: UP14 CU 2276"
+      ],
+      "availability": "Available",
+      "gallery": [
+        "/vehicles/real/audi_a6_front_grille_real.jpg",
+        "/vehicles/real/audi_a6_front_portrait_real.jpg",
+        "/vehicles/real/audi_a6_side_profile_real.jpg",
+        "/vehicles/real/audi_a6_doors_open_real.jpg",
+        "/vehicles/real/audi_a6_interior_cockpit_real.jpg"
+      ],
+      "plateNumber": "UP14 CU 2276",
+      "isRealFleet": true,
+      "badge": "Real Fleet"
+    },
+    {
+      "id": "real-audi-a6-open",
+      "name": "Audi A6 Matrix Elite (Executive Lounge)",
+      "category": "Luxury Cars",
+      "image": "/vehicles/real/audi_a6_doors_open_real.jpg",
+      "pricePerKm": 45,
+      "pricePerDay": 16000,
+      "capacity": 4,
+      "luggage": 3,
+      "mileage": "14 km/l",
+      "specifications": {
+        "ac": true,
+        "musicSystem": true,
+        "chargingPort": true,
+        "pushbackSeats": true,
+        "airbags": true,
+        "gps": true
+      },
+      "features": [
+        "Real Shibani Fleet",
+        "All Doors Open Welcoming View",
+        "Milano Leather Upholstery",
+        "Airport VIP Pickup"
+      ],
+      "availability": "Available",
+      "gallery": [
+        "/vehicles/real/audi_a6_doors_open_real.jpg",
+        "/vehicles/real/audi_a6_interior_cockpit_real.jpg"
+      ],
+      "plateNumber": "UP14 CU 2276",
+      "isRealFleet": true,
+      "badge": "Real Fleet"
+    },
+    {
+      "id": "real-audi-a6-portrait",
+      "name": "Audi A6 Matrix Elite (Portrait View)",
+      "category": "Luxury Cars",
+      "image": "/vehicles/real/audi_a6_front_portrait_real.jpg",
+      "pricePerKm": 45,
+      "pricePerDay": 16000,
+      "capacity": 4,
+      "luggage": 3,
+      "mileage": "14 km/l",
+      "specifications": {
+        "ac": true,
+        "musicSystem": true,
+        "chargingPort": true,
+        "pushbackSeats": true,
+        "airbags": true,
+        "gps": true
+      },
+      "features": [
+        "Real Shibani Fleet",
+        "Executive Stance",
+        "Virtual Cockpit",
+        "Plate: UP14 CU 2276"
+      ],
+      "availability": "Available",
+      "gallery": [
+        "/vehicles/real/audi_a6_front_portrait_real.jpg"
+      ],
+      "plateNumber": "UP14 CU 2276",
+      "isRealFleet": true,
+      "badge": "Real Fleet"
+    },
+    {
+      "id": "real-audi-a6-side",
+      "name": "Audi A6 Matrix Elite (Side Profile)",
+      "category": "Luxury Cars",
+      "image": "/vehicles/real/audi_a6_side_profile_real.jpg",
+      "pricePerKm": 45,
+      "pricePerDay": 16000,
+      "capacity": 4,
+      "luggage": 3,
+      "mileage": "14 km/l",
+      "specifications": {
+        "ac": true,
+        "musicSystem": true,
+        "chargingPort": true,
+        "pushbackSeats": true,
+        "airbags": true,
+        "gps": true
+      },
+      "features": [
+        "Real Shibani Fleet",
+        "Aerodynamic Side Stance",
+        "Sunroof",
+        "Plate: UP14 CU 2276"
+      ],
+      "availability": "Available",
+      "gallery": [
+        "/vehicles/real/audi_a6_side_profile_real.jpg"
+      ],
+      "plateNumber": "UP14 CU 2276",
+      "isRealFleet": true,
+      "badge": "Real Fleet"
+    },
+    {
+      "id": "real-audi-a6-cockpit",
+      "name": "Audi A6 Virtual Cockpit & Dashboard",
+      "category": "Luxury Cars",
+      "image": "/vehicles/real/audi_a6_interior_cockpit_real.jpg",
+      "pricePerKm": 45,
+      "pricePerDay": 16000,
+      "capacity": 4,
+      "luggage": 3,
+      "mileage": "14 km/l",
+      "specifications": {
+        "ac": true,
+        "musicSystem": true,
+        "chargingPort": true,
+        "pushbackSeats": true,
+        "airbags": true,
+        "gps": true
+      },
+      "features": [
+        "Real Shibani Fleet",
+        "Dual Touchscreen MMI Navigation",
+        "Virtual Cockpit Digital Instrument",
+        "Ambient LED"
+      ],
+      "availability": "Available",
+      "gallery": [
+        "/vehicles/real/audi_a6_interior_cockpit_real.jpg"
+      ],
+      "plateNumber": "UP14 CU 2276",
+      "isRealFleet": true,
+      "badge": "Real Fleet"
+    },
+    {
+      "id": "real-jaguar-xf-hotel",
+      "name": "Jaguar XF Royal Portico Edition",
+      "category": "Luxury Cars",
+      "image": "/vehicles/real/jaguar_xf_hotel_portico_real.jpg",
+      "pricePerKm": 50,
+      "pricePerDay": 18000,
+      "capacity": 4,
+      "luggage": 3,
+      "mileage": "13 km/l",
+      "specifications": {
+        "ac": true,
+        "musicSystem": true,
+        "chargingPort": true,
+        "pushbackSeats": true,
+        "airbags": true,
+        "gps": true
+      },
+      "features": [
+        "Real Shibani Fleet",
+        "Portico Luxury Entrance",
+        "Meridian Sound System",
+        "Plate: HR26 DM 2323"
+      ],
+      "availability": "Available",
+      "gallery": [
+        "/vehicles/real/jaguar_xf_hotel_portico_real.jpg",
+        "/vehicles/real/jaguar_xf_road_profile_real.jpg",
+        "/vehicles/real/jaguar_xf_nature_doors_open_real.jpg"
+      ],
+      "plateNumber": "HR26 DM 2323",
+      "isRealFleet": true,
+      "badge": "Real Fleet"
+    },
+    {
+      "id": "real-jaguar-xf-road",
+      "name": "Jaguar XF Highway Tourer",
+      "category": "Luxury Cars",
+      "image": "/vehicles/real/jaguar_xf_road_profile_real.jpg",
+      "pricePerKm": 50,
+      "pricePerDay": 18000,
+      "capacity": 4,
+      "luggage": 3,
+      "mileage": "13 km/l",
+      "specifications": {
+        "ac": true,
+        "musicSystem": true,
+        "chargingPort": true,
+        "pushbackSeats": true,
+        "airbags": true,
+        "gps": true
+      },
+      "features": [
+        "Real Shibani Fleet",
+        "Adaptive Suspension",
+        "Rotary Gear Shifter",
+        "Highway Escort Vehicle"
+      ],
+      "availability": "Available",
+      "gallery": [
+        "/vehicles/real/jaguar_xf_road_profile_real.jpg"
+      ],
+      "plateNumber": "HR26 DM 2323",
+      "isRealFleet": true,
+      "badge": "Real Fleet"
+    },
+    {
+      "id": "real-jaguar-xf-nature",
+      "name": "Jaguar XF Royal Nature Retreat",
+      "category": "Luxury Cars",
+      "image": "/vehicles/real/jaguar_xf_nature_doors_open_real.jpg",
+      "pricePerKm": 50,
+      "pricePerDay": 18000,
+      "capacity": 4,
+      "luggage": 3,
+      "mileage": "13 km/l",
+      "specifications": {
+        "ac": true,
+        "musicSystem": true,
+        "chargingPort": true,
+        "pushbackSeats": true,
+        "airbags": true,
+        "gps": true
+      },
+      "features": [
+        "Real Shibani Fleet",
+        "Pure White British Luxury",
+        "Open Doors Ambience",
+        "Plate: HR26 DM 2323"
+      ],
+      "availability": "Available",
+      "gallery": [
+        "/vehicles/real/jaguar_xf_nature_doors_open_real.jpg"
+      ],
+      "plateNumber": "HR26 DM 2323",
+      "isRealFleet": true,
+      "badge": "Real Fleet"
+    },
+    {
+      "id": "real-mercedes-interior",
+      "name": "Mercedes-Benz E-Class Driver Cockpit",
+      "category": "Luxury Cars",
+      "image": "/vehicles/real/mercedes_benz_driver_seat_interior_real.jpg",
+      "pricePerKm": 55,
+      "pricePerDay": 20000,
+      "capacity": 4,
+      "luggage": 3,
+      "mileage": "12 km/l",
+      "specifications": {
+        "ac": true,
+        "musicSystem": true,
+        "chargingPort": true,
+        "pushbackSeats": true,
+        "airbags": true,
+        "gps": true
+      },
+      "features": [
+        "Real Shibani Fleet",
+        "Dual 12.3-inch Cockpit Displays",
+        "Burmester Surround Audio",
+        "Nappa Leather Heated Seats"
+      ],
+      "availability": "Available",
+      "gallery": [
+        "/vehicles/real/mercedes_benz_driver_seat_interior_real.jpg",
+        "/vehicles/real/mercedes_benz_interior_cockpit_real.jpg"
+      ],
+      "plateNumber": "OD02 MB 2026",
+      "isRealFleet": true,
+      "badge": "Real Fleet"
+    },
+    {
+      "id": "real-mercedes-cockpit-wide",
+      "name": "Mercedes-Benz Ambient Cockpit Lounge",
+      "category": "Luxury Cars",
+      "image": "/vehicles/real/mercedes_benz_interior_cockpit_real.jpg",
+      "pricePerKm": 55,
+      "pricePerDay": 20000,
+      "capacity": 4,
+      "luggage": 3,
+      "mileage": "12 km/l",
+      "specifications": {
+        "ac": true,
+        "musicSystem": true,
+        "chargingPort": true,
+        "pushbackSeats": true,
+        "airbags": true,
+        "gps": true
+      },
+      "features": [
+        "Real Shibani Fleet",
+        "64-Color Ambient Lighting",
+        "Executive Rear Seating",
+        "Plate: OD02 MB 2026"
+      ],
+      "availability": "Available",
+      "gallery": [
+        "/vehicles/real/mercedes_benz_interior_cockpit_real.jpg"
+      ],
+      "plateNumber": "OD02 MB 2026",
+      "isRealFleet": true,
+      "badge": "Real Fleet"
+    },
+    {
+      "id": "real-force-urbania-wedding",
+      "name": "Force Urbania Wedding Garland Edition (17 Seater)",
+      "category": "Force Urbania",
+      "image": "/vehicles/real/force_urbania_wedding_garland_real.jpg",
+      "pricePerKm": 28,
+      "pricePerDay": 8500,
+      "capacity": 17,
+      "luggage": 10,
+      "mileage": "11 km/l",
+      "specifications": {
+        "ac": true,
+        "musicSystem": true,
+        "chargingPort": true,
+        "pushbackSeats": true,
+        "airbags": true,
+        "gps": true
+      },
+      "features": [
+        "Real Shibani Fleet",
+        "Decorated with Fresh Marigold Garland",
+        "17 Pushback Ergonomic Seats",
+        "Panoramic View Windows"
+      ],
+      "availability": "Available",
+      "gallery": [
+        "/vehicles/real/force_urbania_wedding_garland_real.jpg",
+        "/vehicles/real/force_urbania_luxury_van_bronze_real.jpg"
+      ],
+      "plateNumber": "OD02 UR 1717",
+      "isRealFleet": true,
+      "badge": "Real Fleet"
+    },
+    {
+      "id": "real-force-urbania-bronze",
+      "name": "Force Urbania Bronze Luxury Van (17 Seater)",
+      "category": "Force Urbania",
+      "image": "/vehicles/real/force_urbania_luxury_van_bronze_real.jpg",
+      "pricePerKm": 28,
+      "pricePerDay": 8500,
+      "capacity": 17,
+      "luggage": 10,
+      "mileage": "11 km/l",
+      "specifications": {
+        "ac": true,
+        "musicSystem": true,
+        "chargingPort": true,
+        "pushbackSeats": true,
+        "airbags": true,
+        "gps": true
+      },
+      "features": [
+        "Real Shibani Fleet",
+        "Metallic Bronze Exterior",
+        "Monocoque Aerodynamic Design",
+        "USB Port per Passenger"
+      ],
+      "availability": "Available",
+      "gallery": [
+        "/vehicles/real/force_urbania_luxury_van_bronze_real.jpg",
+        "/vehicles/real/force_urbania_wedding_garland_real.jpg"
+      ],
+      "plateNumber": "OD02 UR 8800",
+      "isRealFleet": true,
+      "badge": "Real Fleet"
+    },
+    {
+      "id": "real-traveller-jagannath",
+      "name": "Force Traveller Jay Jagannath (17 Seater)",
+      "category": "Tempo Traveller",
+      "image": "/vehicles/real/force_traveller_jay_jagannath_real.jpg",
+      "pricePerKm": 24,
+      "pricePerDay": 6500,
+      "capacity": 17,
+      "luggage": 10,
+      "mileage": "11 km/l",
+      "specifications": {
+        "ac": true,
+        "musicSystem": true,
+        "chargingPort": true,
+        "pushbackSeats": true,
+        "airbags": true,
+        "gps": true
+      },
+      "features": [
+        "Real Shibani Fleet",
+        "Blessed Puri Dham Pilgrimage Vehicle",
+        "Plate: OD02 AX 4881",
+        "Heavy Duty Luggage Carrier"
+      ],
+      "availability": "Available",
+      "gallery": [
+        "/vehicles/real/force_traveller_jay_jagannath_real.jpg",
+        "/vehicles/real/force_traveller_od02ax4881_front_real.jpg"
+      ],
+      "plateNumber": "OD02 AX 4881",
+      "isRealFleet": true,
+      "badge": "Real Fleet"
+    },
+    {
+      "id": "real-traveller-tarini",
+      "name": "Force Traveller Jay Maa Tarini (26 Seater)",
+      "category": "Tempo Traveller",
+      "image": "/vehicles/real/force_traveller_jay_maa_tarini_real.jpg",
+      "pricePerKm": 32,
+      "pricePerDay": 9500,
+      "capacity": 26,
+      "luggage": 15,
+      "mileage": "9 km/l",
+      "specifications": {
+        "ac": true,
+        "musicSystem": true,
+        "chargingPort": true,
+        "pushbackSeats": true,
+        "airbags": true,
+        "gps": true
+      },
+      "features": [
+        "Real Shibani Fleet",
+        "Plate: OD05 AK 9627",
+        "2x1 Luxury Pushback Recliners",
+        "Ghatgaon & Keonjhar Circuit"
+      ],
+      "availability": "Available",
+      "gallery": [
+        "/vehicles/real/force_traveller_jay_maa_tarini_real.jpg"
+      ],
+      "plateNumber": "OD05 AK 9627",
+      "isRealFleet": true,
+      "badge": "Real Fleet"
+    },
+    {
+      "id": "real-traveller-interior-led",
+      "name": "Tempo Traveller Maharaja Ambient LED Edition (12 Seater)",
+      "category": "Tempo Traveller",
+      "image": "/vehicles/real/tempo_traveller_luxury_interior_led_real.jpg",
+      "pricePerKm": 26,
+      "pricePerDay": 7500,
+      "capacity": 12,
+      "luggage": 8,
+      "mileage": "11 km/l",
+      "specifications": {
+        "ac": true,
+        "musicSystem": true,
+        "chargingPort": true,
+        "pushbackSeats": true,
+        "airbags": true,
+        "gps": true
+      },
+      "features": [
+        "Real Shibani Fleet",
+        "Orange Diamond Quilted Recliners",
+        "Multi-Color Mood LED Ceiling",
+        "Surround Sound Audio"
+      ],
+      "availability": "Available",
+      "gallery": [
+        "/vehicles/real/tempo_traveller_luxury_interior_led_real.jpg",
+        "/vehicles/real/tempo_traveller_pushback_seats_interior_real.jpg"
+      ],
+      "plateNumber": "OD02 MH 1212",
+      "isRealFleet": true,
+      "badge": "Real Fleet"
+    },
+    {
+      "id": "real-traveller-pushback",
+      "name": "Tempo Traveller Executive 2x1 Pushback (17 Seater)",
+      "category": "Tempo Traveller",
+      "image": "/vehicles/real/tempo_traveller_pushback_seats_interior_real.jpg",
+      "pricePerKm": 24,
+      "pricePerDay": 6500,
+      "capacity": 17,
+      "luggage": 10,
+      "mileage": "10 km/l",
+      "specifications": {
+        "ac": true,
+        "musicSystem": true,
+        "chargingPort": true,
+        "pushbackSeats": true,
+        "airbags": true,
+        "gps": true
+      },
+      "features": [
+        "Real Shibani Fleet",
+        "Wide Aisles & Individual Armrests",
+        "High-Capacity Chilled AC Blowers",
+        "Highway Seating Comfort"
+      ],
+      "availability": "Available",
+      "gallery": [
+        "/vehicles/real/tempo_traveller_pushback_seats_interior_real.jpg"
+      ],
+      "plateNumber": "OD02 PB 1717",
+      "isRealFleet": true,
+      "badge": "Real Fleet"
+    },
+    {
+      "id": "real-traveller-od02ax4881",
+      "name": "Force Traveller Super Cruiser (OD02 AX 4881)",
+      "category": "Tempo Traveller",
+      "image": "/vehicles/real/force_traveller_od02ax4881_front_real.jpg",
+      "pricePerKm": 24,
+      "pricePerDay": 6500,
+      "capacity": 17,
+      "luggage": 10,
+      "mileage": "10 km/l",
+      "specifications": {
+        "ac": true,
+        "musicSystem": true,
+        "chargingPort": true,
+        "pushbackSeats": true,
+        "airbags": true,
+        "gps": true
+      },
+      "features": [
+        "Real Shibani Fleet",
+        "Plate: OD02 AX 4881",
+        "High Roof Stand-Up Height",
+        "Puri Mandir Darshan Special"
+      ],
+      "availability": "Available",
+      "gallery": [
+        "/vehicles/real/force_traveller_od02ax4881_front_real.jpg"
+      ],
+      "plateNumber": "OD02 AX 4881",
+      "isRealFleet": true,
+      "badge": "Real Fleet"
+    },
+    {
+      "id": "real-traveller-od02df4498",
+      "name": "Force Traveller 17 Seater (OD02 DF 4498)",
+      "category": "Tempo Traveller",
+      "image": "/vehicles/real/force_traveller_od02df4498_front_real.jpg",
+      "pricePerKm": 24,
+      "pricePerDay": 6500,
+      "capacity": 17,
+      "luggage": 10,
+      "mileage": "10 km/l",
+      "specifications": {
+        "ac": true,
+        "musicSystem": true,
+        "chargingPort": true,
+        "pushbackSeats": true,
+        "airbags": true,
+        "gps": true
+      },
+      "features": [
+        "Real Shibani Fleet",
+        "Plate: OD02 DF 4498",
+        "Rear Luggage Ladder",
+        "Chilled Dual AC Blowers"
+      ],
+      "availability": "Available",
+      "gallery": [
+        "/vehicles/real/force_traveller_od02df4498_front_real.jpg",
+        "/vehicles/real/force_traveller_od02df4498_rear_ladder_real.jpg"
+      ],
+      "plateNumber": "OD02 DF 4498",
+      "isRealFleet": true,
+      "badge": "Real Fleet"
+    },
+    {
+      "id": "real-traveller-od02df4498-rear",
+      "name": "Force Traveller Heavy Carrier Edition (OD02 DF 4498)",
+      "category": "Tempo Traveller",
+      "image": "/vehicles/real/force_traveller_od02df4498_rear_ladder_real.jpg",
+      "pricePerKm": 24,
+      "pricePerDay": 6500,
+      "capacity": 17,
+      "luggage": 12,
+      "mileage": "10 km/l",
+      "specifications": {
+        "ac": true,
+        "musicSystem": true,
+        "chargingPort": true,
+        "pushbackSeats": true,
+        "airbags": true,
+        "gps": true
+      },
+      "features": [
+        "Real Shibani Fleet",
+        "Full Rear Heavy Step & Ladder",
+        "Luggage Roof Rails",
+        "Outstation Tour Ready"
+      ],
+      "availability": "Available",
+      "gallery": [
+        "/vehicles/real/force_traveller_od02df4498_rear_ladder_real.jpg"
+      ],
+      "plateNumber": "OD02 DF 4498",
+      "isRealFleet": true,
+      "badge": "Real Fleet"
+    },
+    {
+      "id": "real-traveller-od02du3328",
+      "name": "Force Traveller Tourist Cruiser (OD02 DU 3328)",
+      "category": "Tempo Traveller",
+      "image": "/vehicles/real/force_traveller_od02du3328_rear_real.jpg",
+      "pricePerKm": 24,
+      "pricePerDay": 6500,
+      "capacity": 17,
+      "luggage": 10,
+      "mileage": "10 km/l",
+      "specifications": {
+        "ac": true,
+        "musicSystem": true,
+        "chargingPort": true,
+        "pushbackSeats": true,
+        "airbags": true,
+        "gps": true
+      },
+      "features": [
+        "Real Shibani Fleet",
+        "Plate: OD02 DU 3328",
+        "Full Rear Guard & Step",
+        "Puri, Konark, Chilika Circuit"
+      ],
+      "availability": "Available",
+      "gallery": [
+        "/vehicles/real/force_traveller_od02du3328_rear_real.jpg",
+        "/vehicles/real/force_traveller_side_view_real.jpg"
+      ],
+      "plateNumber": "OD02 DU 3328",
+      "isRealFleet": true,
+      "badge": "Real Fleet"
+    },
+    {
+      "id": "real-traveller-side",
+      "name": "Force Traveller Highway Explorer (White)",
+      "category": "Tempo Traveller",
+      "image": "/vehicles/real/force_traveller_side_view_real.jpg",
+      "pricePerKm": 24,
+      "pricePerDay": 6500,
+      "capacity": 17,
+      "luggage": 10,
+      "mileage": "10 km/l",
+      "specifications": {
+        "ac": true,
+        "musicSystem": true,
+        "chargingPort": true,
+        "pushbackSeats": true,
+        "airbags": true,
+        "gps": true
+      },
+      "features": [
+        "Real Shibani Fleet",
+        "Aerodynamic Side Profile",
+        "Tinted UV Glass",
+        "Long Distance Comfort"
+      ],
+      "availability": "Available",
+      "gallery": [
+        "/vehicles/real/force_traveller_side_view_real.jpg"
+      ],
+      "plateNumber": "OD02 DU 3328",
+      "isRealFleet": true,
+      "badge": "Real Fleet"
+    },
+    {
+      "id": "real-traveller-od33ba4090",
+      "name": "Force Traveller Showroom Delivery (OD33 BA 4090)",
+      "category": "Tempo Traveller",
+      "image": "/vehicles/real/force_traveller_od33ba4090_delivery_real.jpg",
+      "pricePerKm": 24,
+      "pricePerDay": 6500,
+      "capacity": 17,
+      "luggage": 10,
+      "mileage": "11 km/l",
+      "specifications": {
+        "ac": true,
+        "musicSystem": true,
+        "chargingPort": true,
+        "pushbackSeats": true,
+        "airbags": true,
+        "gps": true
+      },
+      "features": [
+        "Real Shibani Fleet",
+        "Plate: OD33 BA 4090",
+        "Brand New Fleet Unit",
+        "Smooth Long Distance Journey"
+      ],
+      "availability": "Available",
+      "gallery": [
+        "/vehicles/real/force_traveller_od33ba4090_delivery_real.jpg",
+        "/vehicles/real/force_traveller_cba_cabs_side_real.jpg"
+      ],
+      "plateNumber": "OD33 BA 4090",
+      "isRealFleet": true,
+      "badge": "Real Fleet"
+    },
+    {
+      "id": "real-traveller-cba-side",
+      "name": "Force Traveller Corporate Cab Fleet",
+      "category": "Tempo Traveller",
+      "image": "/vehicles/real/force_traveller_cba_cabs_side_real.jpg",
+      "pricePerKm": 24,
+      "pricePerDay": 6500,
+      "capacity": 17,
+      "luggage": 10,
+      "mileage": "11 km/l",
+      "specifications": {
+        "ac": true,
+        "musicSystem": true,
+        "chargingPort": true,
+        "pushbackSeats": true,
+        "airbags": true,
+        "gps": true
+      },
+      "features": [
+        "Real Shibani Fleet",
+        "Corporate Employee Transport",
+        "Uniformed Chauffeur",
+        "Dedicated Route Support"
+      ],
+      "availability": "Available",
+      "gallery": [
+        "/vehicles/real/force_traveller_cba_cabs_side_real.jpg"
+      ],
+      "plateNumber": "OD33 BA 4090",
+      "isRealFleet": true,
+      "badge": "Real Fleet"
+    },
+    {
+      "id": "real-sml-coach",
+      "name": "SML Executive AC Coach (31 Seater)",
+      "category": "Luxury Bus",
+      "image": "/vehicles/real/sml_executive_coach_bus_real.jpg",
+      "pricePerKm": 38,
+      "pricePerDay": 14000,
+      "capacity": 31,
+      "luggage": 25,
+      "mileage": "8 km/l",
+      "specifications": {
+        "ac": true,
+        "musicSystem": true,
+        "chargingPort": true,
+        "pushbackSeats": true,
+        "airbags": true,
+        "gps": true
+      },
+      "features": [
+        "Real Shibani Fleet",
+        "Air Suspension Ride",
+        "PA Mic & Sound System",
+        "Big Conferences & Baraats"
+      ],
+      "availability": "Available",
+      "gallery": [
+        "/vehicles/real/sml_executive_coach_bus_real.jpg"
+      ],
+      "plateNumber": "OD02 SM 3131",
+      "isRealFleet": true,
+      "badge": "Real Fleet"
+    },
+    {
+      "id": "real-tata-winger",
+      "name": "Tata Winger Executive (OD02 CM 9290)",
+      "category": "Tempo Traveller",
+      "image": "/vehicles/real/tata_winger_od02cm9290_rear_real.jpg",
+      "pricePerKm": 20,
+      "pricePerDay": 5500,
+      "capacity": 15,
+      "luggage": 8,
+      "mileage": "12 km/l",
+      "specifications": {
+        "ac": true,
+        "musicSystem": true,
+        "chargingPort": true,
+        "pushbackSeats": true,
+        "airbags": true,
+        "gps": true
+      },
+      "features": [
+        "Real Shibani Fleet",
+        "Plate: OD02 CM 9290",
+        "High Roof Stand-Up Cabin",
+        "Twin Independent ACs"
+      ],
+      "availability": "Available",
+      "gallery": [
+        "/vehicles/real/tata_winger_od02cm9290_rear_real.jpg"
+      ],
+      "plateNumber": "OD02 CM 9290",
+      "isRealFleet": true,
+      "badge": "Real Fleet"
+    },
+    {
+      "id": "real-honda-city",
+      "name": "Honda City i-VTEC Sport (White)",
+      "category": "Sedan",
+      "image": "/vehicles/real/honda_city_sport_white_real.jpg",
+      "pricePerKm": 16,
+      "pricePerDay": 3200,
+      "capacity": 4,
+      "luggage": 3,
+      "mileage": "16 km/l",
+      "specifications": {
+        "ac": true,
+        "musicSystem": true,
+        "chargingPort": true,
+        "pushbackSeats": false,
+        "airbags": true,
+        "gps": true
+      },
+      "features": [
+        "Real Shibani Fleet",
+        "Pure White Aerodynamic Finish",
+        "Electric Sunroof & Cruise",
+        "Airport Executive Cab"
+      ],
+      "availability": "Available",
+      "gallery": [
+        "/vehicles/real/honda_city_sport_white_real.jpg"
+      ],
+      "plateNumber": "OD02 HC 1122",
+      "isRealFleet": true,
+      "badge": "Real Fleet"
+    },
+    {
+      "id": "real-hyundai-verna",
+      "name": "Hyundai Verna Premium Sedan (White)",
+      "category": "Sedan",
+      "image": "/vehicles/real/hyundai_verna_white_real.jpg",
+      "pricePerKm": 16,
+      "pricePerDay": 3000,
+      "capacity": 4,
+      "luggage": 3,
+      "mileage": "17 km/l",
+      "specifications": {
+        "ac": true,
+        "musicSystem": true,
+        "chargingPort": true,
+        "pushbackSeats": false,
+        "airbags": true,
+        "gps": true
+      },
+      "features": [
+        "Real Shibani Fleet",
+        "Ventilated Front Seats",
+        "Whisper-Quiet Cabin",
+        "City & Outstation Tours"
+      ],
+      "availability": "Available",
+      "gallery": [
+        "/vehicles/real/hyundai_verna_white_real.jpg"
+      ],
+      "plateNumber": "OD02 HV 4545",
+      "isRealFleet": true,
+      "badge": "Real Fleet"
+    },
+    {
+      "id": "v-13",
+      "name": "Maruti Suzuki Swift Dzire (AI Showcase)",
+      "category": "Sedan",
+      "image": "/images/swift_dzire_wide.png",
+      "pricePerKm": 12,
+      "pricePerDay": 2400,
+      "capacity": 4,
+      "luggage": 2,
+      "mileage": "22 km/l",
+      "specifications": {
+        "ac": true,
+        "musicSystem": true,
+        "chargingPort": true,
+        "pushbackSeats": false,
+        "airbags": true,
+        "gps": true
+      },
+      "features": [
+        "AI 3D Showcase Model",
+        "Dual Chilled AC",
+        "Bluetooth Audio & GPS",
+        "Uniformed Chauffeur"
+      ],
+      "availability": "Available",
+      "gallery": [
+        "/images/swift_dzire_wide.png",
+        "/images/swift_dzire.png"
+      ],
+      "plateNumber": "OD02 DZ 2026",
+      "isRealFleet": false,
+      "badge": "AI Showcase"
+    },
+    {
+      "id": "v-11",
+      "name": "Maruti Suzuki Swift Dzire (AI Showcase)",
+      "category": "Sedan",
+      "image": "/images/swift_dzire_wide.png",
+      "pricePerKm": 12,
+      "pricePerDay": 2400,
+      "capacity": 4,
+      "luggage": 2,
+      "mileage": "22 km/l",
+      "specifications": {
+        "ac": true,
+        "musicSystem": true,
+        "chargingPort": true,
+        "pushbackSeats": false,
+        "airbags": true,
+        "gps": true
+      },
+      "features": [
+        "AI 3D Showcase Model",
+        "Dual Chilled AC",
+        "Bluetooth Audio & GPS",
+        "Uniformed Chauffeur"
+      ],
+      "availability": "Available",
+      "gallery": [
+        "/images/swift_dzire_wide.png",
+        "/images/swift_dzire.png"
+      ],
+      "plateNumber": "OD02 DZ 2026",
+      "isRealFleet": false,
+      "badge": "AI Showcase"
+    },
+    {
+      "id": "v-12",
+      "name": "Maruti Suzuki Swift Dzire (AI Showcase)",
+      "category": "Sedan",
+      "image": "/images/swift_dzire_wide.png",
+      "pricePerKm": 12,
+      "pricePerDay": 2400,
+      "capacity": 4,
+      "luggage": 2,
+      "mileage": "22 km/l",
+      "specifications": {
+        "ac": true,
+        "musicSystem": true,
+        "chargingPort": true,
+        "pushbackSeats": false,
+        "airbags": true,
+        "gps": true
+      },
+      "features": [
+        "AI 3D Showcase Model",
+        "Dual Chilled AC",
+        "Bluetooth Audio & GPS",
+        "Uniformed Chauffeur"
+      ],
+      "availability": "Available",
+      "gallery": [
+        "/images/swift_dzire_wide.png",
+        "/images/swift_dzire.png"
+      ],
+      "plateNumber": "OD02 DZ 2026",
+      "isRealFleet": false,
+      "badge": "AI Showcase"
+    },
+    {
+      "id": "v-17",
+      "name": "Maruti Suzuki Swift Dzire (AI Showcase)",
+      "category": "Sedan",
+      "image": "/images/swift_dzire_wide.png",
+      "pricePerKm": 12,
+      "pricePerDay": 2400,
+      "capacity": 4,
+      "luggage": 2,
+      "mileage": "22 km/l",
+      "specifications": {
+        "ac": true,
+        "musicSystem": true,
+        "chargingPort": true,
+        "pushbackSeats": false,
+        "airbags": true,
+        "gps": true
+      },
+      "features": [
+        "AI 3D Showcase Model",
+        "Dual Chilled AC",
+        "Bluetooth Audio & GPS",
+        "Uniformed Chauffeur"
+      ],
+      "availability": "Available",
+      "gallery": [
+        "/images/swift_dzire_wide.png",
+        "/images/swift_dzire.png"
+      ],
+      "plateNumber": "OD02 DZ 2026",
+      "isRealFleet": false,
+      "badge": "AI Showcase"
+    },
+    {
+      "id": "v-3",
+      "name": "Toyota Innova Crysta (AI Showcase)",
+      "category": "Innova Crysta",
+      "image": "/images/innova_crysta_wide.png",
+      "pricePerKm": 18,
+      "pricePerDay": 3500,
+      "capacity": 7,
+      "luggage": 4,
+      "mileage": "14 km/l",
+      "specifications": {
+        "ac": true,
+        "musicSystem": true,
+        "chargingPort": true,
+        "pushbackSeats": true,
+        "airbags": true,
+        "gps": true
+      },
+      "features": [
+        "AI 3D Showcase Model",
+        "Captain Recliner Seats",
+        "Independent Roof AC",
+        "Huge Boot Space"
+      ],
+      "availability": "Available",
+      "gallery": [
+        "/images/innova_crysta_wide.png",
+        "/images/innova_crysta.png"
+      ],
+      "plateNumber": "OD02 CR 2026",
+      "isRealFleet": false,
+      "badge": "AI Showcase"
+    },
+    {
+      "id": "v-9",
+      "name": "Toyota Innova Crysta (AI Showcase)",
+      "category": "Innova Crysta",
+      "image": "/images/innova_crysta_wide.png",
+      "pricePerKm": 18,
+      "pricePerDay": 3500,
+      "capacity": 7,
+      "luggage": 4,
+      "mileage": "14 km/l",
+      "specifications": {
+        "ac": true,
+        "musicSystem": true,
+        "chargingPort": true,
+        "pushbackSeats": true,
+        "airbags": true,
+        "gps": true
+      },
+      "features": [
+        "AI 3D Showcase Model",
+        "Captain Recliner Seats",
+        "Independent Roof AC",
+        "Huge Boot Space"
+      ],
+      "availability": "Available",
+      "gallery": [
+        "/images/innova_crysta_wide.png",
+        "/images/innova_crysta.png"
+      ],
+      "plateNumber": "OD02 CR 2026",
+      "isRealFleet": false,
+      "badge": "AI Showcase"
+    },
+    {
+      "id": "v-14",
+      "name": "Toyota Innova Crysta (AI Showcase)",
+      "category": "Innova Crysta",
+      "image": "/images/innova_crysta_wide.png",
+      "pricePerKm": 18,
+      "pricePerDay": 3500,
+      "capacity": 7,
+      "luggage": 4,
+      "mileage": "14 km/l",
+      "specifications": {
+        "ac": true,
+        "musicSystem": true,
+        "chargingPort": true,
+        "pushbackSeats": true,
+        "airbags": true,
+        "gps": true
+      },
+      "features": [
+        "AI 3D Showcase Model",
+        "Captain Recliner Seats",
+        "Independent Roof AC",
+        "Huge Boot Space"
+      ],
+      "availability": "Available",
+      "gallery": [
+        "/images/innova_crysta_wide.png",
+        "/images/innova_crysta.png"
+      ],
+      "plateNumber": "OD02 CR 2026",
+      "isRealFleet": false,
+      "badge": "AI Showcase"
+    },
+    {
+      "id": "v-4",
+      "name": "Toyota Fortuner 4x4 (AI Showcase)",
+      "category": "SUV",
+      "image": "/images/fortuner_wide.png",
+      "pricePerKm": 24,
+      "pricePerDay": 5500,
+      "capacity": 7,
+      "luggage": 4,
+      "mileage": "12 km/l",
+      "specifications": {
+        "ac": true,
+        "musicSystem": true,
+        "chargingPort": true,
+        "pushbackSeats": true,
+        "airbags": true,
+        "gps": true
+      },
+      "features": [
+        "AI 3D Showcase Model",
+        "4x4 Off-Road Terrain",
+        "Sunroof & Leather",
+        "VIP Convoy Stance"
+      ],
+      "availability": "Available",
+      "gallery": [
+        "/images/fortuner_wide.png",
+        "/images/fortuner.png"
+      ],
+      "plateNumber": "OD02 FT 4444",
+      "isRealFleet": false,
+      "badge": "AI Showcase"
+    },
+    {
+      "id": "v-15",
+      "name": "Toyota Fortuner 4x4 (AI Showcase)",
+      "category": "SUV",
+      "image": "/images/fortuner_wide.png",
+      "pricePerKm": 24,
+      "pricePerDay": 5500,
+      "capacity": 7,
+      "luggage": 4,
+      "mileage": "12 km/l",
+      "specifications": {
+        "ac": true,
+        "musicSystem": true,
+        "chargingPort": true,
+        "pushbackSeats": true,
+        "airbags": true,
+        "gps": true
+      },
+      "features": [
+        "AI 3D Showcase Model",
+        "4x4 Off-Road Terrain",
+        "Sunroof & Leather",
+        "VIP Convoy Stance"
+      ],
+      "availability": "Available",
+      "gallery": [
+        "/images/fortuner_wide.png",
+        "/images/fortuner.png"
+      ],
+      "plateNumber": "OD02 FT 4444",
+      "isRealFleet": false,
+      "badge": "AI Showcase"
+    },
+    {
+      "id": "v-16",
+      "name": "Toyota Fortuner 4x4 (AI Showcase)",
+      "category": "SUV",
+      "image": "/images/fortuner_wide.png",
+      "pricePerKm": 24,
+      "pricePerDay": 5500,
+      "capacity": 7,
+      "luggage": 4,
+      "mileage": "12 km/l",
+      "specifications": {
+        "ac": true,
+        "musicSystem": true,
+        "chargingPort": true,
+        "pushbackSeats": true,
+        "airbags": true,
+        "gps": true
+      },
+      "features": [
+        "AI 3D Showcase Model",
+        "4x4 Off-Road Terrain",
+        "Sunroof & Leather",
+        "VIP Convoy Stance"
+      ],
+      "availability": "Available",
+      "gallery": [
+        "/images/fortuner_wide.png",
+        "/images/fortuner.png"
+      ],
+      "plateNumber": "OD02 FT 4444",
+      "isRealFleet": false,
+      "badge": "AI Showcase"
+    },
+    {
+      "id": "v-5",
+      "name": "Force Urbania Luxury Van (AI Showcase)",
+      "category": "Force Urbania",
+      "image": "/images/force_urbania_wide.png",
+      "pricePerKm": 28,
+      "pricePerDay": 8500,
+      "capacity": 17,
+      "luggage": 10,
+      "mileage": "11 km/l",
+      "specifications": {
+        "ac": true,
+        "musicSystem": true,
+        "chargingPort": true,
+        "pushbackSeats": true,
+        "airbags": true,
+        "gps": true
+      },
+      "features": [
+        "AI 3D Showcase Model",
+        "Panoramic Picture Windows",
+        "Individual AC & USB",
+        "Monocoque Body"
+      ],
+      "availability": "Available",
+      "gallery": [
+        "/images/force_urbania_wide.png",
+        "/images/force_urbania.png"
+      ],
+      "plateNumber": "OD02 UR 2026",
+      "isRealFleet": false,
+      "badge": "AI Showcase"
+    },
+    {
+      "id": "v-6",
+      "name": "Force Tempo Traveller 17 Seater (AI Showcase)",
+      "category": "Tempo Traveller",
+      "image": "/images/tempo_traveller_wide.png",
+      "pricePerKm": 22,
+      "pricePerDay": 6000,
+      "capacity": 17,
+      "luggage": 10,
+      "mileage": "10 km/l",
+      "specifications": {
+        "ac": true,
+        "musicSystem": true,
+        "chargingPort": true,
+        "pushbackSeats": true,
+        "airbags": true,
+        "gps": true
+      },
+      "features": [
+        "AI 3D Showcase Model",
+        "2x1 Pushback Recliners",
+        "Chilled Climate AC",
+        "Roof Luggage Carrier"
+      ],
+      "availability": "Available",
+      "gallery": [
+        "/images/tempo_traveller_wide.png",
+        "/images/tempo_traveller.png"
+      ],
+      "plateNumber": "OD02 TT 2026",
+      "isRealFleet": false,
+      "badge": "AI Showcase"
+    },
+    {
+      "id": "v-7",
+      "name": "Mercedes-Benz Royal Wedding Limousine (AI Showcase)",
+      "category": "Luxury Cars",
+      "image": "/banners/wedding_car.png",
+      "pricePerKm": 65,
+      "pricePerDay": 22000,
+      "capacity": 4,
+      "luggage": 3,
+      "mileage": "10 km/l",
+      "specifications": {
+        "ac": true,
+        "musicSystem": true,
+        "chargingPort": true,
+        "pushbackSeats": true,
+        "airbags": true,
+        "gps": true
+      },
+      "features": [
+        "AI Showcase Model",
+        "Fresh Floral Decoration",
+        "White-Glove Chauffeur",
+        "Red Carpet Arrival"
+      ],
+      "availability": "Available",
+      "gallery": [
+        "/banners/wedding_car.png"
+      ],
+      "plateNumber": "OD02 WD 9999",
+      "isRealFleet": false,
+      "badge": "AI Showcase"
+    },
+    {
+      "id": "v-8",
+      "name": "Volvo Multi-Axle Luxury Tour Coach (AI Showcase)",
+      "category": "Luxury Bus",
+      "image": "/banners/travel_fleet.png",
+      "pricePerKm": 48,
+      "pricePerDay": 19000,
+      "capacity": 45,
+      "luggage": 35,
+      "mileage": "6 km/l",
+      "specifications": {
+        "ac": true,
+        "musicSystem": true,
+        "chargingPort": true,
+        "pushbackSeats": true,
+        "airbags": true,
+        "gps": true
+      },
+      "features": [
+        "AI Showcase Model",
+        "Air Suspension Ride",
+        "PA Mic & LED Screen",
+        "Interstate Corporate Fleet"
+      ],
+      "availability": "Available",
+      "gallery": [
+        "/banners/travel_fleet.png"
+      ],
+      "plateNumber": "OD02 VL 1000",
+      "isRealFleet": false,
+      "badge": "AI Showcase"
+    },
+    {
+      "id": "v-19",
+      "name": "Audi A6 Matrix Elite (Front Grille)",
+      "category": "Luxury Cars",
+      "image": "/vehicles/real/audi_a6_front_grille_real.jpg",
+      "pricePerKm": 45,
+      "pricePerDay": 16000,
+      "capacity": 4,
+      "luggage": 3,
+      "mileage": "14 km/l",
+      "specifications": {
+        "ac": true,
+        "musicSystem": true,
+        "chargingPort": true,
+        "pushbackSeats": true,
+        "airbags": true,
+        "gps": true
+      },
+      "features": [
+        "Real Shibani Fleet",
+        "Matrix LED Headlamps",
+        "Bang & Olufsen 3D Sound",
+        "Plate: UP14 CU 2276"
+      ],
+      "availability": "Available",
+      "gallery": [
+        "/vehicles/real/audi_a6_front_grille_real.jpg",
+        "/vehicles/real/audi_a6_front_portrait_real.jpg",
+        "/vehicles/real/audi_a6_side_profile_real.jpg",
+        "/vehicles/real/audi_a6_doors_open_real.jpg",
+        "/vehicles/real/audi_a6_interior_cockpit_real.jpg"
+      ],
+      "plateNumber": "UP14 CU 2276",
+      "isRealFleet": true,
+      "badge": "Real Fleet"
+    },
+    {
+      "id": "v-2",
+      "name": "Audi A6 Matrix Elite (Executive Lounge)",
+      "category": "Luxury Cars",
+      "image": "/vehicles/real/audi_a6_doors_open_real.jpg",
+      "pricePerKm": 45,
+      "pricePerDay": 16000,
+      "capacity": 4,
+      "luggage": 3,
+      "mileage": "14 km/l",
+      "specifications": {
+        "ac": true,
+        "musicSystem": true,
+        "chargingPort": true,
+        "pushbackSeats": true,
+        "airbags": true,
+        "gps": true
+      },
+      "features": [
+        "Real Shibani Fleet",
+        "All Doors Open Welcoming View",
+        "Milano Leather Upholstery",
+        "Airport VIP Pickup"
+      ],
+      "availability": "Available",
+      "gallery": [
+        "/vehicles/real/audi_a6_doors_open_real.jpg",
+        "/vehicles/real/audi_a6_interior_cockpit_real.jpg"
+      ],
+      "plateNumber": "UP14 CU 2276",
+      "isRealFleet": true,
+      "badge": "Real Fleet"
+    },
+    {
+      "id": "v-20",
+      "name": "Jaguar XF Royal Portico Edition",
+      "category": "Luxury Cars",
+      "image": "/vehicles/real/jaguar_xf_hotel_portico_real.jpg",
+      "pricePerKm": 50,
+      "pricePerDay": 18000,
+      "capacity": 4,
+      "luggage": 3,
+      "mileage": "13 km/l",
+      "specifications": {
+        "ac": true,
+        "musicSystem": true,
+        "chargingPort": true,
+        "pushbackSeats": true,
+        "airbags": true,
+        "gps": true
+      },
+      "features": [
+        "Real Shibani Fleet",
+        "Portico Luxury Entrance",
+        "Meridian Sound System",
+        "Plate: HR26 DM 2323"
+      ],
+      "availability": "Available",
+      "gallery": [
+        "/vehicles/real/jaguar_xf_hotel_portico_real.jpg",
+        "/vehicles/real/jaguar_xf_road_profile_real.jpg",
+        "/vehicles/real/jaguar_xf_nature_doors_open_real.jpg"
+      ],
+      "plateNumber": "HR26 DM 2323",
+      "isRealFleet": true,
+      "badge": "Real Fleet"
+    },
+    {
+      "id": "v-21",
+      "name": "Jaguar XF Highway Tourer",
+      "category": "Luxury Cars",
+      "image": "/vehicles/real/jaguar_xf_road_profile_real.jpg",
+      "pricePerKm": 50,
+      "pricePerDay": 18000,
+      "capacity": 4,
+      "luggage": 3,
+      "mileage": "13 km/l",
+      "specifications": {
+        "ac": true,
+        "musicSystem": true,
+        "chargingPort": true,
+        "pushbackSeats": true,
+        "airbags": true,
+        "gps": true
+      },
+      "features": [
+        "Real Shibani Fleet",
+        "Adaptive Suspension",
+        "Rotary Gear Shifter",
+        "Highway Escort Vehicle"
+      ],
+      "availability": "Available",
+      "gallery": [
+        "/vehicles/real/jaguar_xf_road_profile_real.jpg"
+      ],
+      "plateNumber": "HR26 DM 2323",
+      "isRealFleet": true,
+      "badge": "Real Fleet"
+    },
+    {
+      "id": "v-1",
+      "name": "Mercedes-Benz E-Class Driver Cockpit",
+      "category": "Luxury Cars",
+      "image": "/vehicles/real/mercedes_benz_driver_seat_interior_real.jpg",
+      "pricePerKm": 55,
+      "pricePerDay": 20000,
+      "capacity": 4,
+      "luggage": 3,
+      "mileage": "12 km/l",
+      "specifications": {
+        "ac": true,
+        "musicSystem": true,
+        "chargingPort": true,
+        "pushbackSeats": true,
+        "airbags": true,
+        "gps": true
+      },
+      "features": [
+        "Real Shibani Fleet",
+        "Dual 12.3-inch Cockpit Displays",
+        "Burmester Surround Audio",
+        "Nappa Leather Heated Seats"
+      ],
+      "availability": "Available",
+      "gallery": [
+        "/vehicles/real/mercedes_benz_driver_seat_interior_real.jpg",
+        "/vehicles/real/mercedes_benz_interior_cockpit_real.jpg"
+      ],
+      "plateNumber": "OD02 MB 2026",
+      "isRealFleet": true,
+      "badge": "Real Fleet"
+    },
+    {
+      "id": "v-18",
+      "name": "Mercedes-Benz E-Class Driver Cockpit",
+      "category": "Luxury Cars",
+      "image": "/vehicles/real/mercedes_benz_driver_seat_interior_real.jpg",
+      "pricePerKm": 55,
+      "pricePerDay": 20000,
+      "capacity": 4,
+      "luggage": 3,
+      "mileage": "12 km/l",
+      "specifications": {
+        "ac": true,
+        "musicSystem": true,
+        "chargingPort": true,
+        "pushbackSeats": true,
+        "airbags": true,
+        "gps": true
+      },
+      "features": [
+        "Real Shibani Fleet",
+        "Dual 12.3-inch Cockpit Displays",
+        "Burmester Surround Audio",
+        "Nappa Leather Heated Seats"
+      ],
+      "availability": "Available",
+      "gallery": [
+        "/vehicles/real/mercedes_benz_driver_seat_interior_real.jpg",
+        "/vehicles/real/mercedes_benz_interior_cockpit_real.jpg"
+      ],
+      "plateNumber": "OD02 MB 2026",
+      "isRealFleet": true,
+      "badge": "Real Fleet"
+    },
+    {
+      "id": "v-29",
+      "name": "Force Urbania Wedding Garland Edition (17 Seater)",
+      "category": "Force Urbania",
+      "image": "/vehicles/real/force_urbania_wedding_garland_real.jpg",
+      "pricePerKm": 28,
+      "pricePerDay": 8500,
+      "capacity": 17,
+      "luggage": 10,
+      "mileage": "11 km/l",
+      "specifications": {
+        "ac": true,
+        "musicSystem": true,
+        "chargingPort": true,
+        "pushbackSeats": true,
+        "airbags": true,
+        "gps": true
+      },
+      "features": [
+        "Real Shibani Fleet",
+        "Decorated with Fresh Marigold Garland",
+        "17 Pushback Ergonomic Seats",
+        "Panoramic View Windows"
+      ],
+      "availability": "Available",
+      "gallery": [
+        "/vehicles/real/force_urbania_wedding_garland_real.jpg",
+        "/vehicles/real/force_urbania_luxury_van_bronze_real.jpg"
+      ],
+      "plateNumber": "OD02 UR 1717",
+      "isRealFleet": true,
+      "badge": "Real Fleet"
+    },
+    {
+      "id": "v-30",
+      "name": "Force Traveller Jay Jagannath (17 Seater)",
+      "category": "Tempo Traveller",
+      "image": "/vehicles/real/force_traveller_jay_jagannath_real.jpg",
+      "pricePerKm": 24,
+      "pricePerDay": 6500,
+      "capacity": 17,
+      "luggage": 10,
+      "mileage": "11 km/l",
+      "specifications": {
+        "ac": true,
+        "musicSystem": true,
+        "chargingPort": true,
+        "pushbackSeats": true,
+        "airbags": true,
+        "gps": true
+      },
+      "features": [
+        "Real Shibani Fleet",
+        "Blessed Puri Dham Pilgrimage Vehicle",
+        "Plate: OD02 AX 4881",
+        "Heavy Duty Luggage Carrier"
+      ],
+      "availability": "Available",
+      "gallery": [
+        "/vehicles/real/force_traveller_jay_jagannath_real.jpg",
+        "/vehicles/real/force_traveller_od02ax4881_front_real.jpg"
+      ],
+      "plateNumber": "OD02 AX 4881",
+      "isRealFleet": true,
+      "badge": "Real Fleet"
+    },
+    {
+      "id": "v-31",
+      "name": "Force Traveller Jay Maa Tarini (26 Seater)",
+      "category": "Tempo Traveller",
+      "image": "/vehicles/real/force_traveller_jay_maa_tarini_real.jpg",
+      "pricePerKm": 32,
+      "pricePerDay": 9500,
+      "capacity": 26,
+      "luggage": 15,
+      "mileage": "9 km/l",
+      "specifications": {
+        "ac": true,
+        "musicSystem": true,
+        "chargingPort": true,
+        "pushbackSeats": true,
+        "airbags": true,
+        "gps": true
+      },
+      "features": [
+        "Real Shibani Fleet",
+        "Plate: OD05 AK 9627",
+        "2x1 Luxury Pushback Recliners",
+        "Ghatgaon & Keonjhar Circuit"
+      ],
+      "availability": "Available",
+      "gallery": [
+        "/vehicles/real/force_traveller_jay_maa_tarini_real.jpg"
+      ],
+      "plateNumber": "OD05 AK 9627",
+      "isRealFleet": true,
+      "badge": "Real Fleet"
+    },
+    {
+      "id": "v-32",
+      "name": "Tempo Traveller Maharaja Ambient LED Edition (12 Seater)",
+      "category": "Tempo Traveller",
+      "image": "/vehicles/real/tempo_traveller_luxury_interior_led_real.jpg",
+      "pricePerKm": 26,
+      "pricePerDay": 7500,
+      "capacity": 12,
+      "luggage": 8,
+      "mileage": "11 km/l",
+      "specifications": {
+        "ac": true,
+        "musicSystem": true,
+        "chargingPort": true,
+        "pushbackSeats": true,
+        "airbags": true,
+        "gps": true
+      },
+      "features": [
+        "Real Shibani Fleet",
+        "Orange Diamond Quilted Recliners",
+        "Multi-Color Mood LED Ceiling",
+        "Surround Sound Audio"
+      ],
+      "availability": "Available",
+      "gallery": [
+        "/vehicles/real/tempo_traveller_luxury_interior_led_real.jpg",
+        "/vehicles/real/tempo_traveller_pushback_seats_interior_real.jpg"
+      ],
+      "plateNumber": "OD02 MH 1212",
+      "isRealFleet": true,
+      "badge": "Real Fleet"
+    },
+    {
+      "id": "v-33",
+      "name": "Tempo Traveller Executive 2x1 Pushback (17 Seater)",
+      "category": "Tempo Traveller",
+      "image": "/vehicles/real/tempo_traveller_pushback_seats_interior_real.jpg",
+      "pricePerKm": 24,
+      "pricePerDay": 6500,
+      "capacity": 17,
+      "luggage": 10,
+      "mileage": "10 km/l",
+      "specifications": {
+        "ac": true,
+        "musicSystem": true,
+        "chargingPort": true,
+        "pushbackSeats": true,
+        "airbags": true,
+        "gps": true
+      },
+      "features": [
+        "Real Shibani Fleet",
+        "Wide Aisles & Individual Armrests",
+        "High-Capacity Chilled AC Blowers",
+        "Highway Seating Comfort"
+      ],
+      "availability": "Available",
+      "gallery": [
+        "/vehicles/real/tempo_traveller_pushback_seats_interior_real.jpg"
+      ],
+      "plateNumber": "OD02 PB 1717",
+      "isRealFleet": true,
+      "badge": "Real Fleet"
+    },
+    {
+      "id": "v-27",
+      "name": "SML Executive AC Coach (31 Seater)",
+      "category": "Luxury Bus",
+      "image": "/vehicles/real/sml_executive_coach_bus_real.jpg",
+      "pricePerKm": 38,
+      "pricePerDay": 14000,
+      "capacity": 31,
+      "luggage": 25,
+      "mileage": "8 km/l",
+      "specifications": {
+        "ac": true,
+        "musicSystem": true,
+        "chargingPort": true,
+        "pushbackSeats": true,
+        "airbags": true,
+        "gps": true
+      },
+      "features": [
+        "Real Shibani Fleet",
+        "Air Suspension Ride",
+        "PA Mic & Sound System",
+        "Big Conferences & Baraats"
+      ],
+      "availability": "Available",
+      "gallery": [
+        "/vehicles/real/sml_executive_coach_bus_real.jpg"
+      ],
+      "plateNumber": "OD02 SM 3131",
+      "isRealFleet": true,
+      "badge": "Real Fleet"
+    },
+    {
+      "id": "v-26",
+      "name": "Tata Winger Executive (OD02 CM 9290)",
+      "category": "Tempo Traveller",
+      "image": "/vehicles/real/tata_winger_od02cm9290_rear_real.jpg",
+      "pricePerKm": 20,
+      "pricePerDay": 5500,
+      "capacity": 15,
+      "luggage": 8,
+      "mileage": "12 km/l",
+      "specifications": {
+        "ac": true,
+        "musicSystem": true,
+        "chargingPort": true,
+        "pushbackSeats": true,
+        "airbags": true,
+        "gps": true
+      },
+      "features": [
+        "Real Shibani Fleet",
+        "Plate: OD02 CM 9290",
+        "High Roof Stand-Up Cabin",
+        "Twin Independent ACs"
+      ],
+      "availability": "Available",
+      "gallery": [
+        "/vehicles/real/tata_winger_od02cm9290_rear_real.jpg"
+      ],
+      "plateNumber": "OD02 CM 9290",
+      "isRealFleet": true,
+      "badge": "Real Fleet"
+    },
+    {
+      "id": "v-10",
+      "name": "Honda City i-VTEC Sport (White)",
+      "category": "Sedan",
+      "image": "/vehicles/real/honda_city_sport_white_real.jpg",
+      "pricePerKm": 16,
+      "pricePerDay": 3200,
+      "capacity": 4,
+      "luggage": 3,
+      "mileage": "16 km/l",
+      "specifications": {
+        "ac": true,
+        "musicSystem": true,
+        "chargingPort": true,
+        "pushbackSeats": false,
+        "airbags": true,
+        "gps": true
+      },
+      "features": [
+        "Real Shibani Fleet",
+        "Pure White Aerodynamic Finish",
+        "Electric Sunroof & Cruise",
+        "Airport Executive Cab"
+      ],
+      "availability": "Available",
+      "gallery": [
+        "/vehicles/real/honda_city_sport_white_real.jpg"
+      ],
+      "plateNumber": "OD02 HC 1122",
+      "isRealFleet": true,
+      "badge": "Real Fleet"
+    },
+    {
+      "id": "v-25",
+      "name": "Honda City i-VTEC Sport (White)",
+      "category": "Sedan",
+      "image": "/vehicles/real/honda_city_sport_white_real.jpg",
+      "pricePerKm": 16,
+      "pricePerDay": 3200,
+      "capacity": 4,
+      "luggage": 3,
+      "mileage": "16 km/l",
+      "specifications": {
+        "ac": true,
+        "musicSystem": true,
+        "chargingPort": true,
+        "pushbackSeats": false,
+        "airbags": true,
+        "gps": true
+      },
+      "features": [
+        "Real Shibani Fleet",
+        "Pure White Aerodynamic Finish",
+        "Electric Sunroof & Cruise",
+        "Airport Executive Cab"
+      ],
+      "availability": "Available",
+      "gallery": [
+        "/vehicles/real/honda_city_sport_white_real.jpg"
+      ],
+      "plateNumber": "OD02 HC 1122",
+      "isRealFleet": true,
+      "badge": "Real Fleet"
+    },
+    {
+      "id": "v-28",
+      "name": "Hyundai Verna Premium Sedan (White)",
+      "category": "Sedan",
+      "image": "/vehicles/real/hyundai_verna_white_real.jpg",
+      "pricePerKm": 16,
+      "pricePerDay": 3000,
+      "capacity": 4,
+      "luggage": 3,
+      "mileage": "17 km/l",
+      "specifications": {
+        "ac": true,
+        "musicSystem": true,
+        "chargingPort": true,
+        "pushbackSeats": false,
+        "airbags": true,
+        "gps": true
+      },
+      "features": [
+        "Real Shibani Fleet",
+        "Ventilated Front Seats",
+        "Whisper-Quiet Cabin",
+        "City & Outstation Tours"
+      ],
+      "availability": "Available",
+      "gallery": [
+        "/vehicles/real/hyundai_verna_white_real.jpg"
+      ],
+      "plateNumber": "OD02 HV 4545",
+      "isRealFleet": true,
+      "badge": "Real Fleet"
+    }
+  ],
+  "tourPackages": [
+    {
+      "id": "p-1",
+      "title": "Odisha Golden Triangle Tour",
+      "duration": "4 Days / 3 Nights",
+      "description": "Explore the religious, archaeological, and cultural heart of Odisha. From ancient temples of Bhubaneswar to the golden sands of Puri and the architectural wonder of Konark.",
+      "price": 9999,
+      "image": "https://images.unsplash.com/photo-1605649487212-47bdab064df7?auto=format&fit=crop&q=80&w=800",
+      "highlights": [
+        "Bhubaneswar Temples (Lingaraj, Mukteshwar)",
+        "Jagannath Temple Puri",
+        "Konark Sun Temple (UNESCO Site)",
+        "Chilika Lake Dolphin Cruise"
+      ],
+      "itinerary": [
+        {
+          "day": 1,
+          "title": "Arrival in Bhubaneswar",
+          "description": "Pickup from Airport/Station, check-in, visit Lingaraj & Mukteshwar temples, Khandagiri & Udayagiri Caves. Stay in Bhubaneswar."
+        },
+        {
+          "day": 2,
+          "title": "Bhubaneswar to Puri via Dhauli",
+          "description": "Drive to Puri. En-route visit Dhauli Peace Pagoda and Pipili Applique Village. Check-in at Puri hotel. Visit Jagannath Temple in the evening and relax at Golden Beach."
+        },
+        {
+          "day": 3,
+          "title": "Konark Sun Temple & Marine Drive",
+          "description": "Drive along the beautiful Marine Drive. Visit Chandrabhaga Beach and the magnificent Konark Sun Temple. Return to Puri for overnight stay."
+        },
+        {
+          "day": 4,
+          "title": "Chilika Lake Sanctuary & Departure",
+          "description": "Excursion to Satapada (Chilika Lake), spot Irrawaddy Dolphins and visit Sea Mouth. Return to Bhubaneswar for departure transfer."
+        }
+      ],
+      "locations": [
+        "Bhubaneswar",
+        "Puri",
+        "Konark",
+        "Chilika"
+      ]
+    },
+    {
+      "id": "p-2",
+      "title": "Chilika & Gopalpur Beach Escape",
+      "duration": "3 Days / 2 Nights",
+      "description": "A serene getaway to Indiaâ€™s largest coastal lagoon, Chilika Lake, paired with the colonial beach town of Gopalpur-on-Sea.",
+      "price": 7499,
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&q=80&w=800",
+      "highlights": [
+        "Satapada Dolphin Watching",
+        "Gopalpur Beach Sunset",
+        "Kalijai Temple Island",
+        "Seafood Gastronomy"
+      ],
+      "itinerary": [
+        {
+          "day": 1,
+          "title": "Bhubaneswar to Gopalpur",
+          "description": "Drive from Bhubaneswar to Gopalpur. Check-in at luxury beach resort. Relax on the pristine beach and watch the vintage lighthouse."
+        },
+        {
+          "day": 2,
+          "title": "Chilika Lake Barkul Exploration",
+          "description": "Excursion to Barkul side of Chilika Lake. Take a speedboat cruise to Kalijai Temple island and Nalabana Bird Sanctuary."
+        },
+        {
+          "day": 3,
+          "title": "Tara Tarini Temple & Departure",
+          "description": "Visit the sacred Tara Tarini Hill Shrine, enjoy panoramic river views. Drive back to Bhubaneswar for departure."
+        }
+      ],
+      "locations": [
+        "Gopalpur",
+        "Chilika",
+        "Bhubaneswar"
+      ]
+    },
+    {
+      "id": "p-3",
+      "title": "Bhitarkanika Wildlife Odyssey",
+      "duration": "3 Days / 2 Nights",
+      "description": "Immerse yourself in Indiaâ€™s second largest mangrove ecosystem, home to giant saltwater crocodiles, monitor lizards, and exotic migratory birds.",
+      "price": 8999,
+      "image": "https://images.unsplash.com/photo-1470240731273-7821a6eeb6bd?auto=format&fit=crop&q=80&w=800",
+      "highlights": [
+        "Mangrove Boat Safari",
+        "Saltwater Crocodile Spotting",
+        "Exotic Migratory Bird Watching",
+        "Historical Pentha Beach"
+      ],
+      "itinerary": [
+        {
+          "day": 1,
+          "title": "Bhubaneswar to Bhitarkanika",
+          "description": "Drive to Khola entry gate of Bhitarkanika. Check-in at eco-luxury tents. Evening forest walk and cultural performance."
+        },
+        {
+          "day": 2,
+          "title": "Full Day Creek Safari",
+          "description": "Enjoy a thrilling boat safari through dense mangrove creeks. Spot crocodiles, deer, and kingfishers. Visit the ancient hunting tower of kings."
+        },
+        {
+          "day": 3,
+          "title": "Pentha Beach & Departure",
+          "description": "Visit the beautiful pine-fringed Pentha Beach. Drive back to Bhubaneswar for airport/railway transfer."
+        }
+      ],
+      "locations": [
+        "Bhitarkanika",
+        "Bhubaneswar"
+      ]
+    }
+  ],
+  "drivers": [
+    {
+      "id": "d-1",
+      "name": "Satyabrata Sahoo",
+      "phone": "+91 94371 00001",
+      "licenseNumber": "OR-02-20150004523",
+      "rating": 4.9,
+      "experienceYears": 12,
+      "status": "Available",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&q=80&w=200"
+    },
+    {
+      "id": "d-2",
+      "name": "Prakash Mohapatra",
+      "phone": "+91 94371 00002",
+      "licenseNumber": "OR-02-20120008432",
+      "rating": 4.8,
+      "experienceYears": 15,
+      "status": "Available",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&q=80&w=200"
+    },
+    {
+      "id": "d-3",
+      "name": "Ranjan Rout",
+      "phone": "+91 94371 00003",
+      "licenseNumber": "OR-02-20180001928",
+      "rating": 4.7,
+      "experienceYears": 8,
+      "status": "On Duty",
+      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&q=80&w=200"
+    }
+  ],
+  "testimonials": [
+    {
+      "id": "t-1",
+      "name": "Dr. Alok Senapati",
+      "location": "Corporate Client, Bhubaneswar",
+      "rating": 5,
+      "comment": "We hired 5 Force Urbanias and 3 Mercedes S-Class for our international medical conference in Bhubaneswar. The coordination, punctuality, and condition of the vehicles were absolutely top-tier. Shibani Tour & Travels is undoubtedly the most reliable provider in Odisha!",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&q=80&w=150",
+      "date": "2026-05-15"
+    },
+    {
+      "id": "t-2",
+      "name": "Meera & Sanjay Sharma",
+      "location": "Family Vacation, New Delhi",
+      "rating": 5,
+      "comment": "Booked the Odisha Golden Triangle Tour with a Toyota Crysta and driver Prakash. He was extremely knowledgeable about temples, polite, and drove so smoothly. The hotel recommendations were superb. Highly recommend their customized tour packages!",
+      "avatar": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&q=80&w=150",
+      "date": "2026-06-20"
+    },
+    {
+      "id": "t-3",
+      "name": "Ananya Das",
+      "location": "Wedding Booking, Cuttack",
+      "rating": 5,
+      "comment": "Fabulous experience! We booked a premium luxury Jaguar and a customized Audi for a wedding. The cars arrived spotless, beautifully decorated, and exactly on time. Staff was extremely supportive. Truly a five-star premium travel partner!",
+      "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&q=80&w=150",
+      "date": "2026-06-29"
+    }
+  ],
+  "gallery": [
+    {
+      "id": "g-1",
+      "title": "Our Premium Force Urbania Fleet",
+      "category": "vehicles",
+      "image": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&q=80&w=800",
+      "isVideo": false
+    },
+    {
+      "id": "g-2",
+      "title": "Pristine Golden Beach Puri",
+      "category": "odisha",
+      "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&q=80&w=800",
+      "isVideo": false
+    },
+    {
+      "id": "g-3",
+      "title": "Sunset view of Konark Sun Temple",
+      "category": "odisha",
+      "image": "https://images.unsplash.com/photo-1605649487212-47bdab064df7?auto=format&fit=crop&q=80&w=800",
+      "isVideo": false
+    },
+    {
+      "id": "g-4",
+      "title": "Luxury Mercedes Wedding Car",
+      "category": "vehicles",
+      "image": "https://images.unsplash.com/photo-1563720223185-11003d516935?auto=format&fit=crop&q=80&w=800",
+      "isVideo": false
+    },
+    {
+      "id": "g-5",
+      "title": "Dolphin Safari in Satapada Chilika",
+      "category": "odisha",
+      "image": "https://images.unsplash.com/photo-1500485035595-cbe6f645feb1?auto=format&fit=crop&q=80&w=800",
+      "isVideo": false
+    },
+    {
+      "id": "g-6",
+      "title": "Drone Shot of Marine Drive Bhubaneswar-Puri",
+      "category": "drone",
+      "image": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?auto=format&fit=crop&q=80&w=800",
+      "isVideo": false
+    }
+  ],
+  "blogs": [
+    {
+      "id": "b-1",
+      "title": "The Ultimate Guide to Exploring Bhubaneswar: Temple City of India",
+      "slug": "bhubaneswar-temple-city-guide",
+      "summary": "Discover the rich architectural heritage, history, and food culture of Odishaâ€™s capital city, from ancient Lingaraj Temple to modern cafes.",
+      "content": "Bhubaneswar, the capital of Odisha, is famously known as the Temple City of India. With a history spanning over 3,000 years, the city once boasted more than 7,000 temples. Today, several hundred beautiful stone temples still stand as a testament to the Kalinga style of architecture.\n\n### Top Temples to Visit:\n1. **Lingaraj Temple:** Built in the 11th century, this majestic temple is dedicated to Lord Shiva and stands at a soaring height of 180 feet.\n2. **Mukteshwar Temple:** Widely recognized as the \"Gem of Odisha Architecture\" due to its famous arched gateway (Torana) and detailed carvings.\n3. **Rajarani Temple:** Beautifully carved with female figures and standing in manicured gardens, famous for its unique sandstone colors.\n\n### Best Way to Get Around:\nTo tour Bhubaneswar comfortably in the hot and humid climate of Odisha, hiring a reliable luxury car or a spacious Tempo Traveller for group excursions is highly recommended. Shibani Tour & Travels provides custom local sightseeing packages with expert native drivers.",
+      "image": "https://images.unsplash.com/photo-1605649487212-47bdab064df7?auto=format&fit=crop&q=80&w=800",
+      "author": "Satyabrata Pradhan",
+      "date": "2026-06-12",
+      "tags": [
+        "Bhubaneswar",
+        "Temple Tour",
+        "Odisha Tourism"
+      ]
+    },
+    {
+      "id": "b-2",
+      "title": "Why Force Urbania is Rewriting Group Travel Rules in Odisha",
+      "slug": "force-urbania-luxury-travel-odisha",
+      "summary": "Explore why discerning travelers, wedding parties, and corporate clients are switching to Force Urbania rentals for outstation trips.",
+      "content": "Group traveling used to mean compromising on comfort and safety. But with the introduction of the **Force Urbania**, luxury group commuting is finally here in Odisha.\n\n### Why Force Urbania is the Premium Choice:\n- **Monocoque Chassis:** Unlike traditional mini-buses that vibrate and shake, the Urbania's monocoque design provides car-like handling and ultimate structural safety.\n- **Plush Reclining Seats:** Individual seats with soft upholstery, triple-point seatbelts, and separate reading lights.\n- **Aesthetic Air Vents:** Dual-zone powerful AC system that cools the entire vehicle in minutes, even in Odisha's summer peak.\n- **Panoramic Windows:** Offers gorgeous unobstructed views of the scenic Eastern Ghats, Chilika lagoon, and marine drive.\n\nAt Shibani Tour & Travels, we have introduced a fleet of premium Force Urbanias in 13-seater, 17-seater, and 26-seater variants, making us the top booking choice for weddings, pilgrimages, and corporate trips.",
+      "image": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&q=80&w=800",
+      "author": "Travel Desk Specialist",
+      "date": "2026-06-25",
+      "tags": [
+        "Force Urbania",
+        "Group Travel",
+        "Luxury Rentals"
+      ]
+    }
+  ],
+  "offers": [
+    {
+      "id": "o-1",
+      "code": "SHIBANI10",
+      "discountPercentage": 10,
+      "description": "Get 10% off on your first luxury car rental booking.",
+      "validUntil": "2026-12-31",
+      "minBookingValue": 3000
+    },
+    {
+      "id": "o-2",
+      "code": "ODISHA15",
+      "discountPercentage": 15,
+      "description": "Exclusive 15% discount on full Golden Triangle Tour packages.",
+      "validUntil": "2026-09-30",
+      "minBookingValue": 8000
+    },
+    {
+      "id": "o-3",
+      "code": "URBANIA500",
+      "discountPercentage": 5,
+      "description": "Flat Rs. 500 off on Force Urbania premium group bookings.",
+      "validUntil": "2026-08-31",
+      "minBookingValue": 6000
+    }
+  ],
+  "faqs": [
+    {
+      "id": "f-1",
+      "question": "How do I book a vehicle with Shibani Tour & Travels?",
+      "answer": "You can book instantly using our state-of-the-art online booking portal, via WhatsApp, or by calling our 24/7 hotline at +91-9437100001. We provide instant reservation confirmations.",
+      "category": "Booking"
+    },
+    {
+      "id": "f-2",
+      "question": "Do you offer self-drive cars in Bhubaneswar?",
+      "answer": "Yes, we have an optional premium self-drive catalog for corporate executives and verified travelers with valid documentation. However, most of our fleet is chauffeur-driven to provide you with absolute comfort.",
+      "category": "Fleet"
+    },
+    {
+      "id": "f-3",
+      "question": "What are the outstation taxi charges per kilometer?",
+      "answer": "Our rates start as low as Rs. 11/km for hatchbacks, Rs. 14/km for sedans, Rs. 18/km for Toyota Crysta, and Rs. 28/km for luxury Force Urbanias. Final fares are fully transparent without hidden fuel or driver night surcharges.",
+      "category": "Pricing"
+    },
+    {
+      "id": "f-4",
+      "question": "Are toll taxes and state borders permits included in the quote?",
+      "answer": "For tour packages, all-inclusive pricing is provided. For daily rentals/taxi services, state border permits, tolls, and parking fees are either paid actuals by the client or calculated in your customized dynamic invoice.",
+      "category": "Pricing"
+    }
+  ],
+  "bookings": [
+    {
+      "id": "b-1001",
+      "customerName": "Aman Agarwal",
+      "customerEmail": "aman@example.com",
+      "customerPhone": "9876543210",
+      "pickupLocation": "Bhubaneswar Airport (BBI)",
+      "dropLocation": "Hotel Mayfair Lagoon, Bhubaneswar",
+      "journeyType": "Airport Transfer",
+      "pickupDate": "2026-07-10",
+      "pickupTime": "14:30",
+      "vehicleId": "v-3",
+      "vehicleName": "Toyota Innova Crysta",
+      "vehicleCategory": "Innova Crysta",
+      "passengers": 4,
+      "luggage": 3,
+      "discountAmount": 0,
+      "totalFare": 3500,
+      "paymentOption": "Card",
+      "paymentStatus": "Paid",
+      "bookingStatus": "Confirmed",
+      "driverId": "d-1",
+      "driverName": "Satyabrata Sahoo",
+      "createdAt": "2026-07-05T18:30:00Z"
+    },
+    {
+      "id": "b-1002",
+      "customerName": "Padmini Mohanty",
+      "customerEmail": "padmini@example.com",
+      "customerPhone": "8877665544",
+      "pickupLocation": "Puri Railway Station",
+      "dropLocation": "Konark Sun Temple",
+      "journeyType": "Outstation",
+      "pickupDate": "2026-07-15",
+      "pickupTime": "09:00",
+      "returnDate": "2026-07-15",
+      "vehicleId": "v-10",
+      "vehicleName": "Honda City i-VTEC",
+      "vehicleCategory": "Sedan",
+      "passengers": 3,
+      "luggage": 1,
+      "discountAmount": 250,
+      "totalFare": 2250,
+      "paymentOption": "UPI",
+      "paymentStatus": "Paid",
+      "bookingStatus": "Confirmed",
+      "driverId": "d-2",
+      "driverName": "Prakash Mohapatra",
+      "createdAt": "2026-07-06T09:15:00Z",
+      "couponCode": "SHIBANI10"
+    }
+  ],
+  "enquiries": [
+    {
+      "id": "eq-1",
+      "name": "Satyajit Mishra",
+      "email": "satyajit@gmail.com",
+      "phone": "9439122334",
+      "subject": "Corporate Tour Query",
+      "message": "We require 3 luxury AC buses for our employee outing from Bhubaneswar to Chilika on August 15. Please send quotes and GST details.",
+      "status": "Pending",
+      "createdAt": "2026-07-06T08:00:00Z"
+    }
+  ],
+  "notifications": [
+    {
+      "id": "n-1",
+      "title": "New Booking Confirmed",
+      "message": "Booking b-1002 from Padmini Mohanty has been successfully verified.",
+      "type": "success",
+      "createdAt": "2026-07-06T09:16:00Z",
+      "isRead": false
+    },
+    {
+      "id": "n-2",
+      "title": "New Corporate Query",
+      "message": "Satyajit Mishra submitted an enquiry regarding Corporate buses.",
+      "type": "info",
+      "createdAt": "2026-07-06T08:02:00Z",
+      "isRead": true
+    }
+  ],
+  "reviews": []
+}

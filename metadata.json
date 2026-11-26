@@ -1,0 +1,6 @@
+{
+  "name": "Shibani Tour & Travels",
+  "description": "Bhubaneswar's premier luxury travel and rental partner. Premium car rentals, tempo travellers, Force Urbania, tour packages across Odisha, and AI-powered trip estimators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
