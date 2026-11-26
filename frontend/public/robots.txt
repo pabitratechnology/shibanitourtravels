@@ -1,0 +1,10 @@
+# robots.txt for https://www.shibanitourtravels.com
+User-agent: *
+Allow: /
+
+# Disallow private admin panels and internal APIs
+Disallow: /admin
+Disallow: /api/
+
+# Sitemap location
+Sitemap: https://www.shibanitourtravels.com/sitemap.xml
